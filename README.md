@@ -40,6 +40,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<p align="center"><i>Thanks for visiting my profile — feel free to explore my repositories and connect!</i></p>
+
+
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Sarumathi-Sukravel&show_icons=true&theme=radical" height="165"/>
@@ -47,5 +50,3 @@
 </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarumathi-Sukravel&layout=compact&theme=radical" />
 
-
-<p align="center"><i>Thanks for visiting my profile — feel free to explore my repositories and connect!</i></p>
