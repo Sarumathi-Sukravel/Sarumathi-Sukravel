@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/Google_Cloud_Engineering-EAF2F5?style=for-the-badge&logo=googlecloud&logoColor=2C5364&labelColor=EAF2F5"/>
 </p>
 
-> 💡 Deloitte and Quantium are Forage-verified job simulations — strong signals to recruiters since they mimic real on-the-job tasks at recognizable companies. Consider linking each badge to its verification page once you have the shareable link from Forage.
+
 
 ---
 
@@ -108,8 +108,6 @@
     </td>
   </tr>
 </table>
-
-> 💡 **Tip for you:** update each project link above to match your actual repo URLs, and replace the `via.placeholder.com` images with real screenshots of each dashboard — drag-and-drop into the GitHub README editor to auto-generate the image link.
 
 ---
 
