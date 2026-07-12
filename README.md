@@ -40,6 +40,10 @@
 ### 🏆 Certifications
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Deloitte_Data_Analytics_Job_Simulation-EAF2F5?style=for-the-badge&logoColor=2C5364&labelColor=EAF2F5"/>
+  <img src="https://img.shields.io/badge/Quantium_Data_Analytics_Job_Simulation-EAF2F5?style=for-the-badge&logoColor=2C5364&labelColor=EAF2F5"/>
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/Data_Analytics_(Google,_Naan_Mudhalvan)-EAF2F5?style=for-the-badge&logo=google&logoColor=2C5364&labelColor=EAF2F5"/>
   <img src="https://img.shields.io/badge/Data_Analytics_(SLA_Institute,_Grade_A)-EAF2F5?style=for-the-badge&logoColor=2C5364&labelColor=EAF2F5"/>
 </p>
@@ -47,6 +51,8 @@
   <img src="https://img.shields.io/badge/Python_for_Data_Analysis_(IBM)-EAF2F5?style=for-the-badge&logo=ibm&logoColor=2C5364&labelColor=EAF2F5"/>
   <img src="https://img.shields.io/badge/Google_Cloud_Engineering-EAF2F5?style=for-the-badge&logo=googlecloud&logoColor=2C5364&labelColor=EAF2F5"/>
 </p>
+
+> 💡 Deloitte and Quantium are Forage-verified job simulations — strong signals to recruiters since they mimic real on-the-job tasks at recognizable companies. Consider linking each badge to its verification page once you have the shareable link from Forage.
 
 ---
 
