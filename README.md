@@ -15,14 +15,11 @@
   <a href="https://www.linkedin.com/in/sarumathi-sukravel">
     <img src="https://img.shields.io/badge/LinkedIn-203A43?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:sarumathisukravel@gmail.com">
     <img src="https://img.shields.io/badge/Email-203A43?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-resume-link.com">
+  <a href="https://github.com/Sarumathi-Sukravel/Sarumathi-Sukravel/raw/main/Sarumathi_Sukravel_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-203A43?style=for-the-badge&logo=readdotcv&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/yourusername">
-    <img src="https://img.shields.io/badge/Kaggle-203A43?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
@@ -30,26 +27,35 @@
 
 ### 🧑‍💻 About Me
 
-- 📊 Passionate about **data analytics** — finding the story hidden in numbers
-- 🌱 Currently sharpening skills in **Python, SQL, and data visualization**
-- 💡 I enjoy turning messy datasets into clean dashboards and clear insights
-- 🎓 [Add: degree, college name, graduation year]
-- 🏆 [Add: any certification — e.g. Google Data Analytics, IBM Data Analyst, Power BI]
+- 📊 Analytical, detail-oriented **Data Analyst** with hands-on experience in SQL, Python, Power BI, and Excel
+- 🎓 B.Tech in Information Technology, University College of Engineering, Villupuram (CGPA 8.2) — graduating May 2026
+- 🌱 Skilled in data cleaning, wrangling, visualization, and predictive modeling for actionable business insights
+- 💡 Built dashboards, KPI trackers, and a logistic regression attrition model across multiple end-to-end projects
+- 🛠️ Interned as a Web Development Intern at Seyfert Infotech, building a full e-commerce site (HTML/CSS/JS)
 - 📍 Based in Chennai, India
 - 🎯 2026 goal: land a Data Analyst role where I can turn data into decisions
-- ⚡ Fun fact: [Add something personal — makes you memorable to a recruiter skimming 50 profiles]
 
 ---
 
 ### 🏆 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Google_Data_Analytics-EAF2F5?style=for-the-badge&logo=google&logoColor=2C5364&labelColor=EAF2F5"/>
-  <img src="https://img.shields.io/badge/SQL_(HackerRank)-EAF2F5?style=for-the-badge&logo=hackerrank&logoColor=2C5364&labelColor=EAF2F5"/>
-  <img src="https://img.shields.io/badge/Power_BI-EAF2F5?style=for-the-badge&logo=powerbi&logoColor=2C5364&labelColor=EAF2F5"/>
+  <img src="https://img.shields.io/badge/Data_Analytics_(Google,_Naan_Mudhalvan)-EAF2F5?style=for-the-badge&logo=google&logoColor=2C5364&labelColor=EAF2F5"/>
+  <img src="https://img.shields.io/badge/Data_Analytics_(SLA_Institute,_Grade_A)-EAF2F5?style=for-the-badge&logoColor=2C5364&labelColor=EAF2F5"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python_for_Data_Analysis_(IBM)-EAF2F5?style=for-the-badge&logo=ibm&logoColor=2C5364&labelColor=EAF2F5"/>
+  <img src="https://img.shields.io/badge/Google_Cloud_Engineering-EAF2F5?style=for-the-badge&logo=googlecloud&logoColor=2C5364&labelColor=EAF2F5"/>
 </p>
 
-> Replace the badges above with your actual certifications — swap the label text and add a link to the credential (`[![...]](https://your-certificate-link.com)`) so recruiters can click through and verify.
+---
+
+### 🥇 Achievements
+
+- 🥇 **1st Prize** — Debugging, COLLOQ'25 Inter College Symposium, E.S. Arts & Science College
+- 🥈 **2nd Prize** — Paper Presentation, IGNITE EXPO'25, AKT Memorial College (International Symposium)
+- 🎤 **Coordinator** — Debugging & Poster Presentation, INFONIX-2K25 Symposium
+- 🚌 Organized an industrial visit for 61 students, demonstrating leadership and organizational skills
 
 ---
 
@@ -58,37 +64,37 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Sarumathi-Sukravel/retail-sales-analysis">
-        <img src="https://via.placeholder.com/400x200?text=Retail+Sales+Dashboard" width="100%"/>
+      <a href="https://github.com/Sarumathi-Sukravel/hr-employee-attrition-analysis">
+        <img src="https://via.placeholder.com/400x200?text=HR+Attrition+Analysis" width="100%"/>
       </a>
       <br/>
-      <b>🛒 Retail Sales Analysis</b><br/>
-      EDA on 5,000 retail orders — trends, top categories, regional performance<br/>
+      <b>👥 HR Employee Attrition Analysis</b><br/>
+      End-to-end analysis uncovering key attrition drivers across department, salary band, age group, and overtime status; built a Logistic Regression model to predict attrition<br/>
       <img src="https://img.shields.io/badge/Python-EAF2F5?style=flat-square&logo=python&logoColor=2C5364&labelColor=EAF2F5"/>
-      <img src="https://img.shields.io/badge/Pandas-EAF2F5?style=flat-square&logo=pandas&logoColor=2C5364&labelColor=EAF2F5"/>
-      <img src="https://img.shields.io/badge/Seaborn-EAF2F5?style=flat-square&logoColor=2C5364&labelColor=EAF2F5"/>
+      <img src="https://img.shields.io/badge/SQL-EAF2F5?style=flat-square&logo=mysql&logoColor=2C5364&labelColor=EAF2F5"/>
+      <img src="https://img.shields.io/badge/Excel-EAF2F5?style=flat-square&logo=microsoft-excel&logoColor=2C5364&labelColor=EAF2F5"/>
     </td>
     <td width="50%">
-      <a href="https://github.com/Sarumathi-Sukravel/covid19-trend-analysis">
-        <img src="https://via.placeholder.com/400x200?text=COVID-19+Trend+Analysis" width="100%"/>
+      <a href="https://github.com/Sarumathi-Sukravel/ecommerce-delivery-analytics-dashboard">
+        <img src="https://via.placeholder.com/400x200?text=Delivery+Analytics+Dashboard" width="100%"/>
       </a>
       <br/>
-      <b>🦠 COVID-19 Trend Analysis</b><br/>
-      State-level case wave, mortality & vaccination trend analysis<br/>
-      <img src="https://img.shields.io/badge/Python-EAF2F5?style=flat-square&logo=python&logoColor=2C5364&labelColor=EAF2F5"/>
-      <img src="https://img.shields.io/badge/Matplotlib-EAF2F5?style=flat-square&logoColor=2C5364&labelColor=EAF2F5"/>
+      <b>📦 E-commerce Delivery Analytics Dashboard</b><br/>
+      Interactive Power BI dashboard analyzing delivery delays, timing, and customer ratings to drive operational decisions<br/>
+      <img src="https://img.shields.io/badge/Power_BI-EAF2F5?style=flat-square&logo=powerbi&logoColor=2C5364&labelColor=EAF2F5"/>
+      <img src="https://img.shields.io/badge/DAX-EAF2F5?style=flat-square&logoColor=2C5364&labelColor=EAF2F5"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Sarumathi-Sukravel/sql-customer-analytics">
-        <img src="https://via.placeholder.com/400x200?text=SQL+Customer+Analytics" width="100%"/>
+      <a href="https://github.com/Sarumathi-Sukravel/social-media-teen-mental-health-analysis">
+        <img src="https://via.placeholder.com/400x200?text=Teen+Mental+Health+Dashboard" width="100%"/>
       </a>
       <br/>
-      <b>🗃️ SQL Customer Analytics</b><br/>
-      Business-question SQL queries on a customer/orders database<br/>
-      <img src="https://img.shields.io/badge/SQL-EAF2F5?style=flat-square&logo=mysql&logoColor=2C5364&labelColor=EAF2F5"/>
-      <img src="https://img.shields.io/badge/SQLite-EAF2F5?style=flat-square&logo=sqlite&logoColor=2C5364&labelColor=EAF2F5"/>
+      <b>📱 Social Media & Teen Mental Health Analysis</b><br/>
+      Dashboard evaluating the impact of social media use on teen mental health — screen time, sleep, stress, and emotional well-being<br/>
+      <img src="https://img.shields.io/badge/Power_BI-EAF2F5?style=flat-square&logo=powerbi&logoColor=2C5364&labelColor=EAF2F5"/>
+      <img src="https://img.shields.io/badge/Statistics-EAF2F5?style=flat-square&logoColor=2C5364&labelColor=EAF2F5"/>
     </td>
     <td width="50%" align="center" valign="middle">
       <b>More projects coming soon 🚧</b><br/>
@@ -97,7 +103,7 @@
   </tr>
 </table>
 
-> 💡 **Tip for you:** replace each `via.placeholder.com` image URL above with a real screenshot of that project's chart/dashboard. Just drag-and-drop your screenshot into the GitHub README editor — it will auto-generate the image link for you to paste in.
+> 💡 **Tip for you:** update each project link above to match your actual repo URLs, and replace the `via.placeholder.com` images with real screenshots of each dashboard — drag-and-drop into the GitHub README editor to auto-generate the image link.
 
 ---
 
@@ -108,9 +114,12 @@
   <img src="https://img.shields.io/badge/SQL-EAF2F5?style=for-the-badge&logo=mysql&logoColor=2C5364&labelColor=EAF2F5"/>
   <img src="https://img.shields.io/badge/Pandas-EAF2F5?style=for-the-badge&logo=pandas&logoColor=2C5364&labelColor=EAF2F5"/>
   <img src="https://img.shields.io/badge/NumPy-EAF2F5?style=for-the-badge&logo=numpy&logoColor=2C5364&labelColor=EAF2F5"/>
-  <img src="https://img.shields.io/badge/Excel-EAF2F5?style=for-the-badge&logo=microsoft-excel&logoColor=2C5364&labelColor=EAF2F5"/>
+  <img src="https://img.shields.io/badge/Matplotlib-EAF2F5?style=for-the-badge&logoColor=2C5364&labelColor=EAF2F5"/>
   <img src="https://img.shields.io/badge/Power_BI-EAF2F5?style=for-the-badge&logo=powerbi&logoColor=2C5364&labelColor=EAF2F5"/>
-  <img src="https://img.shields.io/badge/Jupyter-EAF2F5?style=for-the-badge&logo=jupyter&logoColor=2C5364&labelColor=EAF2F5"/>
+  <img src="https://img.shields.io/badge/DAX-EAF2F5?style=for-the-badge&logoColor=2C5364&labelColor=EAF2F5"/>
+  <img src="https://img.shields.io/badge/Excel-EAF2F5?style=for-the-badge&logo=microsoft-excel&logoColor=2C5364&labelColor=EAF2F5"/>
+  <img src="https://img.shields.io/badge/Power_Query-EAF2F5?style=for-the-badge&logoColor=2C5364&labelColor=EAF2F5"/>
+  <img src="https://img.shields.io/badge/Statistics-EAF2F5?style=for-the-badge&logoColor=2C5364&labelColor=EAF2F5"/>
   <img src="https://img.shields.io/badge/Git-EAF2F5?style=for-the-badge&logo=git&logoColor=2C5364&labelColor=EAF2F5"/>
 </p>
 
@@ -141,14 +150,12 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="25%">🔍<br/><b>Detail-oriented</b><br/><sub>I dig past the surface number to find the "why"</sub></td>
+    <td align="center" width="25%">🔍<br/><b>Detail-oriented</b><br/><sub>Dig past the surface number to find the "why"</sub></td>
     <td align="center" width="25%">📈<br/><b>Business-minded</b><br/><sub>Insights tied to decisions, not just charts</sub></td>
-    <td align="center" width="25%">🤝<br/><b>Clear communicator</b><br/><sub>I translate data for non-technical stakeholders</sub></td>
-    <td align="center" width="25%">⚡<br/><b>Fast learner</b><br/><sub>Comfortable picking up new tools quickly</sub></td>
+    <td align="center" width="25%">🧮<br/><b>Statistically grounded</b><br/><sub>Hypothesis testing, regression, predictive modeling</sub></td>
+    <td align="center" width="25%">⚡<br/><b>Fast learner</b><br/><sub>Picked up Power BI, SQL & ML for real projects fast</sub></td>
   </tr>
 </table>
-
-> Edit this row to reflect your real strengths — recruiters spend ~6 seconds on a first pass, and a quick "why hire me" scan like this gives them a reason to keep reading.
 
 ---
 
@@ -158,10 +165,10 @@
   <a href="https://www.linkedin.com/in/sarumathi-sukravel">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-2C5364?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:sarumathisukravel@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say_Hi-2C5364?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://your-resume-link.com">
+  <a href="https://github.com/Sarumathi-Sukravel/Sarumathi-Sukravel/raw/main/Sarumathi_Sukravel_Resume.pdf">
     <img src="https://img.shields.io/badge/Download_Resume-2C5364?style=for-the-badge&logo=readdotcv&logoColor=white"/>
   </a>
 </p>
