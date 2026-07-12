@@ -1,28 +1,28 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:FF512F&height=200&section=header&text=Sarumathi%20Sukravel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20Into%20Clear%20Insights&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sarumathi%20Sukravel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20Into%20Clear%20Insights&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=FF512F&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+SQL+%2B+Python;Dashboards+%2B+Insights+%2B+Stories;Open+to+Data+Analyst+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+SQL+%2B+Python;Dashboards+%2B+Insights+%2B+Stories;Open+to+Data+Analyst+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-brightgreen?style=for-the-badge&logo=target&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=Sarumathi-Sukravel&color=FF512F&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-2C5364?style=for-the-badge&logo=target&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=Sarumathi-Sukravel&color=2C5364&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarumathi-sukravel">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-203A43?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-203A43?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://your-resume-link.com">
-    <img src="https://img.shields.io/badge/Resume-FF512F?style=for-the-badge&logo=readdotcv&logoColor=white" />
+    <img src="https://img.shields.io/badge/Resume-203A43?style=for-the-badge&logo=readdotcv&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/yourusername">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-203A43?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
@@ -44,9 +44,9 @@
 ### 🏆 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_(HackerRank)-00C7B7?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Google_Data_Analytics-EAF2F5?style=for-the-badge&logo=google&logoColor=2C5364&labelColor=EAF2F5"/>
+  <img src="https://img.shields.io/badge/SQL_(HackerRank)-EAF2F5?style=for-the-badge&logo=hackerrank&logoColor=2C5364&labelColor=EAF2F5"/>
+  <img src="https://img.shields.io/badge/Power_BI-EAF2F5?style=for-the-badge&logo=powerbi&logoColor=2C5364&labelColor=EAF2F5"/>
 </p>
 
 > Replace the badges above with your actual certifications — swap the label text and add a link to the credential (`[![...]](https://your-certificate-link.com)`) so recruiters can click through and verify.
@@ -64,9 +64,9 @@
       <br/>
       <b>🛒 Retail Sales Analysis</b><br/>
       EDA on 5,000 retail orders — trends, top categories, regional performance<br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Python-EAF2F5?style=flat-square&logo=python&logoColor=2C5364&labelColor=EAF2F5"/>
+      <img src="https://img.shields.io/badge/Pandas-EAF2F5?style=flat-square&logo=pandas&logoColor=2C5364&labelColor=EAF2F5"/>
+      <img src="https://img.shields.io/badge/Seaborn-EAF2F5?style=flat-square&logoColor=2C5364&labelColor=EAF2F5"/>
     </td>
     <td width="50%">
       <a href="https://github.com/Sarumathi-Sukravel/covid19-trend-analysis">
@@ -75,8 +75,8 @@
       <br/>
       <b>🦠 COVID-19 Trend Analysis</b><br/>
       State-level case wave, mortality & vaccination trend analysis<br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Python-EAF2F5?style=flat-square&logo=python&logoColor=2C5364&labelColor=EAF2F5"/>
+      <img src="https://img.shields.io/badge/Matplotlib-EAF2F5?style=flat-square&logoColor=2C5364&labelColor=EAF2F5"/>
     </td>
   </tr>
   <tr>
@@ -87,8 +87,8 @@
       <br/>
       <b>🗃️ SQL Customer Analytics</b><br/>
       Business-question SQL queries on a customer/orders database<br/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-EAF2F5?style=flat-square&logo=mysql&logoColor=2C5364&labelColor=EAF2F5"/>
+      <img src="https://img.shields.io/badge/SQLite-EAF2F5?style=flat-square&logo=sqlite&logoColor=2C5364&labelColor=EAF2F5"/>
     </td>
     <td width="50%" align="center" valign="middle">
       <b>More projects coming soon 🚧</b><br/>
@@ -104,14 +104,14 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-EAF2F5?style=for-the-badge&logo=python&logoColor=2C5364&labelColor=EAF2F5"/>
+  <img src="https://img.shields.io/badge/SQL-EAF2F5?style=for-the-badge&logo=mysql&logoColor=2C5364&labelColor=EAF2F5"/>
+  <img src="https://img.shields.io/badge/Pandas-EAF2F5?style=for-the-badge&logo=pandas&logoColor=2C5364&labelColor=EAF2F5"/>
+  <img src="https://img.shields.io/badge/NumPy-EAF2F5?style=for-the-badge&logo=numpy&logoColor=2C5364&labelColor=EAF2F5"/>
+  <img src="https://img.shields.io/badge/Excel-EAF2F5?style=for-the-badge&logo=microsoft-excel&logoColor=2C5364&labelColor=EAF2F5"/>
+  <img src="https://img.shields.io/badge/Power_BI-EAF2F5?style=for-the-badge&logo=powerbi&logoColor=2C5364&labelColor=EAF2F5"/>
+  <img src="https://img.shields.io/badge/Jupyter-EAF2F5?style=for-the-badge&logo=jupyter&logoColor=2C5364&labelColor=EAF2F5"/>
+  <img src="https://img.shields.io/badge/Git-EAF2F5?style=for-the-badge&logo=git&logoColor=2C5364&labelColor=EAF2F5"/>
 </p>
 
 ---
@@ -119,20 +119,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarumathi-Sukravel&show_icons=true&theme=synthwave&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarumathi-Sukravel&theme=synthwave&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarumathi-Sukravel&show_icons=true&theme=graywhite&hide_border=true&icon_color=2C5364&title_color=203A43&text_color=333333&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarumathi-Sukravel&theme=graywhite&hide_border=true&ring=2C5364&fire=2C5364&currStreakLabel=203A43" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarumathi-Sukravel&layout=compact&theme=synthwave&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarumathi-Sukravel&layout=compact&theme=graywhite&hide_border=true&title_color=203A43&text_color=333333" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarumathi-Sukravel&theme=synthwave&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarumathi-Sukravel&bg_color=ffffff&color=203A43&line=2C5364&point=0F2027&hide_border=true" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarumathi-Sukravel&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sarumathi-Sukravel&theme=flat&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -156,14 +156,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarumathi-sukravel">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2C5364?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Say_Hi-2C5364?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://your-resume-link.com">
-    <img src="https://img.shields.io/badge/Download_Resume-FF512F?style=for-the-badge&logo=readdotcv&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Download_Resume-2C5364?style=for-the-badge&logo=readdotcv&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:8E2DE2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
